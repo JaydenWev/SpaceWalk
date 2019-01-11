@@ -1,2 +1,2 @@
-## SpaceWalk
-#Spelregels
+# SpaceWalk
+# Spelregels
