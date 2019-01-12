@@ -1,7 +1,8 @@
 # SpaceWalk
 
 ## Spelregels
-####BEGIN (verdeling schepen)
+
+#### BEGIN (verdeling schepen)
 
 Er zijn 2 banen een grote en een kleine.  
 De kleine baan wordt gebruikt voor 2 spelers.  
