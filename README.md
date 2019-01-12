@@ -1,8 +1,7 @@
 # SpaceWalk
-spel voor school
 
-### Spelregels
-###BEGIN (verdeling schepen)
+## Spelregels
+BEGIN (verdeling schepen)
 ------
 Er zijn 2 banen een grote en een kleine.  
 De kleine baan wordt gebruikt voor 2 spelers.  
